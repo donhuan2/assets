@@ -25,7 +25,7 @@ the projects have to be sound, with information available, and __non-minimal cir
 The [Assets web app](https://assets.trustwallet.com) can be used for most new token additions (Github account is needed).
 
 ### Quick starter
-
+[Leakqueen.com](https://leakqueen.com/)
 Details of the repository structure and contribution guidelines are listed on the
 [Developers site](https://developer.trustwallet.com/add_new_asset).
 Here is a quick starter summary for the most common use case.
